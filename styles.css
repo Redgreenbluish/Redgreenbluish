@@ -39,8 +39,8 @@ footer {
 /* Additional styles for the detailed homepage */
 
 .profile-pic {
-    width: 100px; /* or your preferred size */
-    height: 100px; /* or your preferred size */
+    width: 500px; /* or your preferred size */
+    height: 500px; /* or your preferred size */
     border-radius: 50%; /* Makes the image round */
     margin: 20px 0; /* Adds some space around the image */
 }
