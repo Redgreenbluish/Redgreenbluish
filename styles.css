@@ -35,3 +35,27 @@ footer {
     width: 100%;
     padding: 10px;
 }
+
+/* Additional styles for the detailed homepage */
+
+.profile-pic {
+    width: 100px; /* or your preferred size */
+    height: 100px; /* or your preferred size */
+    border-radius: 50%; /* Makes the image round */
+    margin: 20px 0; /* Adds some space around the image */
+}
+
+.company-description {
+    padding: 20px 0;
+    background-color: #f9f9f9; /* light background for the section */
+}
+
+.company-description h2 {
+    margin-bottom: 10px;
+}
+
+.company-description p {
+    line-height: 1.6; /* Makes text more readable */
+}
+
+/* Rest of your CSS */
