@@ -2,6 +2,8 @@
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
+    background-color: black; /* Sets the background color to black */
+    color: white; /* Changes the text color to white for better readability */
 }
 
 header {
