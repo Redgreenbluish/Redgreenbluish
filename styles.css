@@ -49,7 +49,7 @@ footer {
 
 .company-description {
     padding: 20px 0;
-    background-color: #f9f9f9; /* light background for the section */
+    background-color: #000000; /* sets the background color to black */
 }
 
 .company-description h2 {
